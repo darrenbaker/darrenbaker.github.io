@@ -1,0 +1,6 @@
+theme: null
+
+exclude:
+  - README.md
+  - db.github.io.code-workspce
+  
